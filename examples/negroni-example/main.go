@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"github.com/auth0/go-jwt-middleware"
 	"github.com/codegangsta/negroni"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/steviesama/jwt-go"
 	"github.com/gorilla/mux"
 	"net/http"
 )

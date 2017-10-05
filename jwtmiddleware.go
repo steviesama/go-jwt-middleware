@@ -3,7 +3,7 @@ package jwtmiddleware
 import (
 	"errors"
 	"fmt"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/steviesama/jwt-go"
 	"github.com/gorilla/context"
 	"log"
 	"net/http"
